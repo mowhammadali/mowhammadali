@@ -1,5 +1,5 @@
 # 💫Ma.moradkhani:
-🔭 I’m currently working on Angular project<br>👯 I’m looking to collaborate on React/Angular Projects<br>🌱 I’m currently learning Next.js
+🔭 I’m currently working on Angular project<br>👯 I’m looking to collaborate on React/Angular Projects<br>
 
 
 ## 🌐 Socials:
